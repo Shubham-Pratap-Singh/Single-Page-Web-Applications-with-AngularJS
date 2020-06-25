@@ -19,4 +19,4 @@ When the user clicks on `My Info` button, they should be taken to another view w
 
 If the user hasn't yet "registered" through the `Sign Up` button, simply display a message saying: `Not Signed Up Yet. Sign up Now!`. The words "Sign up Now!" should be a link to the same view as the `Sign Up` link points to.
 
-[See my solution web page](https://igogra.github.io/Single-Page-Web-Applications-with-AngularJS/Module5/)
+[See my solution web page](https://shubhamkatheria11.github.io/AngularJS//mod5_solution/)
