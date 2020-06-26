@@ -13,4 +13,4 @@ The categories view should list all available categories of items on the menu. E
 
 Make sure that if, while viewing the list of menu items for a particular category, the user copies the URL in the browser's address bar and pastes it into a new tab or a different browser, that the view is the same as the original one.
 
-[See my solution web page](https://shubhamkatheria11.github.io/AngularJS//mod4_solution/)
+[See my solution web page](https://shubhamkatheria11.github.io/AngularJS/mod4_solution/)
