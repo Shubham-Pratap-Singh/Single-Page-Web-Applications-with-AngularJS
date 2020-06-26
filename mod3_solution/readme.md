@@ -17,4 +17,4 @@ If nothing is found as a result of the search OR if the user leaves the textbox 
 
 To make things a bit easier, you can retrieve the items from the server every time the user clicks the "Narrow It Down For Me!" button. You don't have to cache the response. In other words, no matter what actions the user has taken, if the "Narrow It Down For Me!" button is clicked, all the data gets wiped out and the whole process starts all over again. No requirement to remember what the user chose to throw off the list last time.
 
-[See my solution web page](https://shubhamkatheria11.github.io/AngularJS//mod3_solution/)
+[See my solution web page](https://shubhamkatheria11.github.io/AngularJS/mod3_solution/)
