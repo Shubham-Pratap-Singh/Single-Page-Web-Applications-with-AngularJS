@@ -1,8 +1,8 @@
 ## Welcom to AngularJS
 
 
-his repository contains my solutions to the assignments of the Coursera course
-["Single-Page-Web-Applications-with-AngularJS" by Johns Hopkins University].
+This repository contains my solutions to the assignments of the Coursera course
+##["Single-Page-Web-Applications-with-AngularJS" by Johns Hopkins University].
 
 ## Assignments
 
