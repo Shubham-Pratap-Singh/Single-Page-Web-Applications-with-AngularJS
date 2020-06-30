@@ -9,7 +9,7 @@
 
 ### Module 1
 * [Assignment description](./Descriptions/assignment1/Assignment-1.md)
-* Deadline: 6 AUG 2020, 12:29 PM IST
+* Deadline: 6 JULY 2020, 12:29 PM IST
 * [Solution](https://shubhamkatheria11.github.io/Single-Page-Web-Applications-with-AngularJS/mod1_solution/)
 
 ### Module 2
